@@ -1,0 +1,26 @@
+#Login
+{
+	margin: auto;
+	padding: auto;
+	border: 2px solid;
+	padding: 20px;
+	margin-top: 200px;
+	width: 500px;
+	text-align: center;
+	background: white;
+}
+#Login h1
+{
+	font-size: 42px;
+	font-family: Castellar;
+}
+body
+{
+	padding:auto;
+	background-color: #808080;
+	text-align:center;
+}
+input
+{
+	width: 100%;
+}
